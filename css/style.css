@@ -1,0 +1,32 @@
+.custom-div{
+    border: 0,5px solid black;
+    
+}
+
+.footer-custom{
+        position: fixed;
+        bottom: 0;
+        overflow: auto;
+    
+}
+
+.output{
+    height: 700px;
+    overflow: auto;
+}
+
+
+img{
+    width: 80px;
+    height: 80px;
+}
+
+a{
+    color:rgb(54, 49, 49);
+}
+
+a:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
